@@ -1,10 +1,11 @@
-## Quantization Tool
+## PTQ(Post Training Quantization) Tool
 
-
-This tool can be used to quantize select ONNX models. Support is based on operators in the model. 
+这是一个对onnx模型进行PTQ量化的工具，此工具支持int8量化
+// This tool can be used to quantize select ONNX models. Support is based on operators in the model. 
 
 
 #### usage
+需要安装onnxruntime
 For more usage details, please refer to https://onnxruntime.ai/docs/performance/quantization.html 
 
 
